@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Musib Saleem aka Venger!</h1>
 <h3 align="center">currently sipping on .sol and jpeg juices</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xvenger&label=Profile%20views&color=0e75b6&style=flat" alt="0xvenger" /> </p>
 
 <p align="left"> <a href="https://twitter.com/0xvenger" target="blank"><img src="https://img.shields.io/twitter/follow/0xvenger?logo=twitter&style=for-the-badge" alt="0xvenger" /></a> </p>
