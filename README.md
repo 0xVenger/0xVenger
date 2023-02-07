@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Muhammad Musib Saleem aka Venger!</h1>
-<h3 align="center">currently sipping on .sol and jpeg juices</h3>
+<div align="center" width="50">
+<img alt="Coding"  width="100%" src="https://i.imgur.com/eEXjfdY.png">
+<div align="center">
 <div align="center" width="50">
 <img alt="Coding"  width="30%" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif">
 <div align="center">
