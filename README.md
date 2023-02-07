@@ -4,14 +4,10 @@
 <div align="center" width="50">
 <img alt="Coding"  width="30%" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif">
 <div align="center">
-
-
-<hr/>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=0xvenger&label=Profile%20views&color=0e75b6&style=flat" alt="0xvenger" /> </p>
-
-
-<hr/> 
+ <hr/>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter" > <img src="https://komarev.com/ghpvc/?username=0xVenger&label=Profile%20views&color=0e75b6&style=flat" alt="noriahm" /> </a>
+<a href="https://github.com/0xVenger?tab=followers"><img src="https://img.shields.io/github/followers/noriahm?label=Followers&style=social" alt="Badge"></a>
+  <hr/>
 
  🌱 I’m currently learning **solidity**
 
