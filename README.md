@@ -33,8 +33,8 @@
 
 <hr/> 
 
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=0xvenger&theme=aura&show_icons=true&locale=en&layout=compact" alt="0xvenger" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=0xvenger&theme=omni&show_icons=true&locale=en&layout=compact" alt="0xvenger" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xvenger&theme=aura&show_icons=true&locale=en" alt="0xvenger" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xvenger&theme=omni&show_icons=true&locale=en" alt="0xvenger" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xvenger&theme=aura&" alt="0xvenger" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xvenger&theme=omni&" alt="0xvenger" /></p>
